@@ -26,38 +26,39 @@ By achieving these goals, the project aims to bridge raw geospatial data with me
 
 # 🛠️ Project Steps
 Below are the key steps followed in this project to build an interactive and layered GIS mapping system:
+
 1. Initial Setup:
-   -Installed necessary GIS tools and libraries (e.g., QGIS, Leaflet, Python libraries like Geopandas, Rasterio).
-   -Set up project directory and organized datasets (vector and raster).
+      -Installed necessary GIS tools and libraries (e.g., QGIS, Leaflet, Python libraries like Geopandas, Rasterio).
+      -Set up project directory and organized datasets (vector and raster).
 
-3. Adding Base Layers
-  -Loaded the state boundary layer as the base layer.
-  -Verified geometries and corrected any inconsistencies in shapefiles.
+3. Adding Base Layers:
+   -Loaded the state boundary layer as the base layer.
+   -Verified geometries and corrected any inconsistencies in shapefiles.
 
-4. Overlaying District Layers
-  -Added and visualized district-level shapefiles on top of the state layer.
-  -Styled districts with unique colors and borders for clear distinction.
+4. Overlaying District Layers:
+   -Added and visualized district-level shapefiles on top of the state layer.
+   -Styled districts with unique colors and borders for clear distinction.
 
-5. Raster Data Integration
-  -Imported raster datasets (e.g., satellite images or remote sensing data).
-  -Enabled Band 1, 2, 3 (RGB composite) for enhanced visual analysis.
-  -Aligned raster data accurately with vector layers using proper projections.
+5. Raster Data Integration:
+      -Imported raster datasets (e.g., satellite images or remote sensing data).
+      -Enabled Band 1, 2, 3 (RGB composite) for enhanced visual analysis.
+      -Aligned raster data accurately with vector layers using proper projections.
 
-6. Geolocation and Coordinate Mapping
-  -Integrated functionality to input and navigate using real-world coordinates.
-  -Enabled focused zoom on specific regions/zones based on coordinates.
+6. Geolocation and Coordinate Mapping:
+   -Integrated functionality to input and navigate using real-world coordinates.
+   -Enabled focused zoom on specific regions/zones based on coordinates.
 
 7. Focus on Gujarat
-  -Zoomed into Gujarat state for deeper analysis.
-  -Activated internal district boundaries to visualize administrative divisions.
-  -Prepared the map for detailed region-specific spatial study.
+   -Zoomed into Gujarat state for deeper analysis.
+   -Activated internal district boundaries to visualize administrative divisions.
+   -Prepared the map for detailed region-specific spatial study.
 
 8. Layer Management
-  -Implemented controls for layer visibility, transparency, and interaction.
-  -Ensured smooth toggling between base layers, district overlays, and raster images.
+   -Implemented controls for layer visibility, transparency, and interaction.
+   -Ensured smooth toggling between base layers, district overlays, and raster images.
 
-9. Map Export/Save (Optional)
-  -Enabled export of custom views or saved layer configurations for reporting or sharing.
+9. Map Export/Save (Optional):
+-Enabled export of custom views or saved layer configurations for reporting or sharing.
 
 # 🖥️ Screenshot
 - (On Layers Selecting -> Districts -> TN2 ✅ -> AP-1 ✅ & State Layer)
