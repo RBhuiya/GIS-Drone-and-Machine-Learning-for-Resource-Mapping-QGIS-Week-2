@@ -27,8 +27,8 @@ By achieving these goals, the project aims to bridge raw geospatial data with me
 # 🛠️ Project Steps
 Below are the key steps followed in this project to build an interactive and layered GIS mapping system:
 1. Initial Setup:
--Installed necessary GIS tools and libraries (e.g., QGIS, Leaflet, Python libraries like Geopandas, Rasterio).
--Set up project directory and organized datasets (vector and raster).
+   -Installed necessary GIS tools and libraries (e.g., QGIS, Leaflet, Python libraries like Geopandas, Rasterio).
+   -Set up project directory and organized datasets (vector and raster).
 
 3. Adding Base Layers
   -Loaded the state boundary layer as the base layer.
@@ -73,7 +73,7 @@ Below are the key steps followed in this project to build an interactive and lay
 # 📝 Requirements
 - ⬇️ Install QGIS: [official website](https://qgis.org/download/) (latest version).
 - 🟢 Getting Started:
-   1.	Clone this repository to your local machine: 
+   1.	Clone this repository to your local machine: https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS-Week-2/blob/main/README.md
    2.	Open QGIS, and load the states.shp and districts.shp file located in the Main (Source Data File) folder.
    3.	Explore the data:
         - View district boundaries on the map.
