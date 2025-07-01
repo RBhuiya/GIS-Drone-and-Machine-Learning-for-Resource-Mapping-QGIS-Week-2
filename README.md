@@ -27,8 +27,8 @@ By achieving these goals, the project aims to bridge raw geospatial data with me
 # 🛠️ Project Steps
 Below are the key steps followed in this project to build an interactive and layered GIS mapping system:
 1. Initial Setup
-    -Installed necessary GIS tools and libraries (e.g., QGIS, Leaflet, Python libraries like Geopandas, Rasterio).
-    -Set up project directory and organized datasets (vector and raster).
+    --Installed necessary GIS tools and libraries (e.g., QGIS, Leaflet, Python libraries like Geopandas, Rasterio).
+    --Set up project directory and organized datasets (vector and raster).
 
 2. Adding Base Layers
   -Loaded the state boundary layer as the base layer.
